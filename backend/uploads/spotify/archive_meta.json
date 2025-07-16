@@ -1,0 +1,8 @@
+{
+    "name": "spotify",
+    "description": "top 50 music playlist",
+    "source": "kaggle",
+    "date": "2025-07-17",
+    "status": null,
+    "filename": "archive.zip"
+}
